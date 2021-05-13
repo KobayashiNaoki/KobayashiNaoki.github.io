@@ -6,7 +6,7 @@ layout: default
 <!-- Journals and others -->
 ## International Conferences
 * Top-down RST Parsing Utilizing Granularity Levels in Documents
-  [paper](https://aaai.org/Papers/AAAI/2020GB/AAAI-KobayashiN.9629.pdf")
+  [paper](https://ojs.aaai.org//index.php/AAAI/article/view/6321")
   Naoki Kobayashi, Tsutomu Hirao, Hidetaka Kamigaito, Manabu Okumura, Masaaki Nagata
 * Split or Merge: Which is Better for Unsupervised RST Parsing?
   [paper]("https://www.aclweb.org/anthology/D19-1587/")
