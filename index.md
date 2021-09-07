@@ -5,13 +5,13 @@ layout: default
 # Publications
 <!-- Journals and others -->
 ## International Conferences
-* Considering Nested Tree Structure in Sentence Extractive Summarization with Pre-trained Transformer
-  [paper]()
-  Jingun Kwon, Naoki Kobayashi, Hidetaka Kamigaito and Manabu Okumura
+* Considering Nested Tree Structure in Sentence Extractive Summarization with Pre-trained Transformer  
+  [paper]()  
+  Jingun Kwon, Naoki Kobayashi, Hidetaka Kamigaito and Manabu Okumura  
   In proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.
-* Improving Neural RST Parsing Model with Silver Agreement Subtrees
-  [paper](https://aclanthology.org/2021.naacl-main.127/)
-  Naoki Kobayashi, Tsutomu Hirao, Hidetaka Kamigaito, Manabu Okumura, Masaaki Nagata
+* Improving Neural RST Parsing Model with Silver Agreement Subtrees  
+  [paper](https://aclanthology.org/2021.naacl-main.127/)  
+  Naoki Kobayashi, Tsutomu Hirao, Hidetaka Kamigaito, Manabu Okumura, Masaaki Nagata  
   In proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). 2021.
 * Top-down RST Parsing Utilizing Granularity Levels in Documents  
   [paper](https://ojs.aaai.org//index.php/AAAI/article/view/6321)  
