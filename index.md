@@ -35,5 +35,6 @@ layout: default
     
     
 ### Experience
-Internship on NTT Communication Science Laboratories
-Internship LegalForce Research
+- Internship on NTT Communication Science Laboratories (2018/9~..)
+- Internship LegalForce Research (2021/10/01~12/31)
+- Internship on NTT Communication Science Laboratories (2022/01/07~01/28)
