@@ -10,6 +10,11 @@ layout: default
   Jingun Kwon, Naoki Kobayashi, Hidetaka Kamigaito and Manabu Okumura  
   In proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.  
   Short paper, Acceptance rate: 11.6% ((300+119)/(2540+1060))
+* Making Your Tweets More Fancy: Emoji Insertion to Texts  
+  [paper](https://aclanthology.org/2021.ranlp-1.88/)  
+  Jingun Kwon, Naoki Kobayashi, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura  
+  Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021).  
+  Long paper.
 * Improving Neural RST Parsing Model with Silver Agreement Subtrees  
   [paper](https://aclanthology.org/2021.naacl-main.127/)  
   Naoki Kobayashi, Tsutomu Hirao, Hidetaka Kamigaito, Manabu Okumura, Masaaki Nagata  
@@ -29,7 +34,7 @@ layout: default
   [paper](https://dl.acm.org/doi/abs/10.1145/3350546.3352508)  
   Jingun Kwon, Naoki Kobayashi, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura  
   In proceedings of the Conference on Web Intelligence (WI). 2019.  
-  Long paper
+  Long paper, Acceptance rate: 18.4%
 
 ## Domestic Conferences
     
