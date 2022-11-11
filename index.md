@@ -5,6 +5,10 @@ layout: default
 # Publications
 <!-- Journals and others -->
 ## International Conferences
+* A simple and Strong Baseline for End-to-End Neural RST-style Discourse Parsing  
+  [paper(arXiv)](https://arxiv.org/abs/2210.08355)  
+  Naoki Kobayashi, Tsutomu Hirao, Hidetaka Kamigaito, Manabu Okumura, Masaaki Nagata  
+  Accepted in Findings of EMNLP 2022.  
 * Considering Nested Tree Structure in Sentence Extractive Summarization with Pre-trained Transformer  
   [paper](https://aclanthology.org/2021.emnlp-main.330/)  
   Jingun Kwon, Naoki Kobayashi, Hidetaka Kamigaito and Manabu Okumura  
@@ -13,7 +17,7 @@ layout: default
 * Making Your Tweets More Fancy: Emoji Insertion to Texts  
   [paper](https://aclanthology.org/2021.ranlp-1.88/)  
   Jingun Kwon, Naoki Kobayashi, Hidetaka Kamigaito, Hiroya Takamura, Manabu Okumura  
-  Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021).  
+  Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP) 2021.  
   Long paper.
 * Improving Neural RST Parsing Model with Silver Agreement Subtrees  
   [paper](https://aclanthology.org/2021.naacl-main.127/)  
@@ -40,6 +44,6 @@ layout: default
     
     
 ### Experience
-- Internship on NTT Communication Science Laboratories (2018/9~..)
+- Internship on NTT Communication Science Laboratories (2018/09/10~11/27)
 - Internship LegalForce Research (2021/10/01~12/31)
 - Internship on NTT Communication Science Laboratories (2022/01/07~01/28)
